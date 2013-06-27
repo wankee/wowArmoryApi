@@ -1,0 +1,5 @@
+http:// <region> + .battle.net/static-render/ + <region> + / + <the string you got from API as thumbnail>
+
+http://www.battlenet.com.cn/static-render/cn/lushwater-oasis/40/35182888-avatar.jpg
+
+http://us.media.blizzard.com/wow/icons/56/inv_helmet_plate_raidpaladin_i_01.jpg
